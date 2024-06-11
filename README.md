@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Code in Place Final Project 2024</h1>
+# <h1 align = "center">Code in Place Final Project 2024</h1>
 
 <h1>Math Adventure Game</h1>
 
@@ -22,8 +22,7 @@
 <ol>
   <li><strong>Clone the repository:</strong>
 
-<pre><code>
-git clone https://github.com/GGomezMorales/code_in_place_final_project_2024.git
+<pre><code>git clone https://github.com/GGomezMorales/code_in_place_final_project_2024.git
 cd code_in_place_final_project_2024
 </code></pre>
   </li>
