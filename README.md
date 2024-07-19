@@ -1,4 +1,4 @@
-# <h1 align = "center">Code in Place Final Project 2024</h1>
+# <h1 align = "center"><a href="https://codeinplace.stanford.edu/cip4/certificate/7nwd9y">Code in Place Final Project 2024</a></h1>
 
 <h1>Math Adventure Game</h1>
 
