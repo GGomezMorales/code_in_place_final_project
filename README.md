@@ -11,10 +11,10 @@
 <h2>Features</h2>
 
 <ul>
-  <li><strong>Multiple Difficulty Levels:</strong> Choose between Easy, Medium, and Hard.</li>
-  <li><strong>Varied Problem Types:</strong> Encounter different types of math problems, including basic arithmetic, matrix operations, determinants, and calculus problems.</li>
-  <li><strong>Scoring System:</strong> Earn points for each correct answer and track your progress.</li>
-  <li><strong>Level Progression:</strong> Advance through levels as you solve problems correctly.</li>
+  <li><strong>Multiple difficulty levels:</strong> Choose between Easy, Medium, and Hard.</li>
+  <li><strong>Varied problem types:</strong> Encounter different types of math problems, including basic arithmetic, matrix operations, determinants, and calculus problems.</li>
+  <li><strong>Scoring system:</strong> Earn points for each correct answer and track your progress.</li>
+  <li><strong>Level progression:</strong> Advance through levels as you solve problems correctly.</li>
 </ul>
 
 <h2>Installation</h2>
@@ -28,14 +28,14 @@ cd code_in_place_final_project_2024
   </li>
   <li><strong>Install required packages:</strong>
 
-<p>Ensure you have Python installed. This game also requires <code>numpy</code> for matrix operations. You can install it using pip:</p>
+<p>Ensure you have [Python](https://www.python.org/downloads/) installed. This game also requires <code>numpy</code> for matrix operations. You can install it using `pip`:</p>
 
 <pre><code>pip install numpy
 </code></pre>
   </li>
 </ol>
 
-<h2>How to Play</h2>
+<h2>How to play</h2>
 
 <ol>
   <li><strong>Run the game:</strong>
