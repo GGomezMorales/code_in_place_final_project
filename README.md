@@ -28,7 +28,7 @@ cd code_in_place_final_project_2024
   </li>
   <li><strong>Install required packages:</strong>
 
-<p>Ensure you have [Python](https://www.python.org/downloads/) installed. This game also requires <code>numpy</code> for matrix operations. You can install it using `pip`:</p>
+<p>Ensure you have <a href="https://www.python.org/downloads/">Python</a> installed. This game also requires <code>numpy</code> for matrix operations. You can install it using <code>pip</code>:</p>
 
 <pre><code>pip install numpy
 </code></pre>
